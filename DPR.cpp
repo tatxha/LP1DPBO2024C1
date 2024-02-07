@@ -5,14 +5,14 @@ using namespace std;
 
 class DPR
 {
-    private:
+    private: // atribut yang dibutuhkan
         string id;
         string name;
         string bidang;
         string partai;
 
     public:
-        DPR()
+        DPR() // default value
         {
             this->id = "";
             this->name = "";
@@ -28,51 +28,47 @@ class DPR
             this->partai = partai;
         }
 
-        // id
+        // get id
         string get_id()
         {
             return this->id;
         }
-        
+        // set id
         void set_id(string id)
         {
             this->id = id;
         }
-        
-        // nama
+        // get name
         string get_name()
         {
             return this->name;
         }
-        
+        // set name
         void set_name(string name)
         {
             this->name = name;
         }
-        
-        // bidang
+        // get bidang
         string get_bidang()
         {
             return this->bidang;
         }
-        
+        // set bidang
         void set_bidang(string bidang)
         {
             this->bidang = bidang;
         }
-        
-        // partai
+        // get partai
         string get_partai()
         {
             return this->partai;
         }
-        
+        // set partai
         void set_partai(string partai)
         {
             this->partai = partai;
         }
-        
-        
+        // destruktor
         ~DPR()
         {
             
