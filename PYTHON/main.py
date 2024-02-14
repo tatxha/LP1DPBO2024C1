@@ -62,6 +62,7 @@ while status:
             if actions == 'U' or actions == 'u':
                 print("Input the ID you want to update :")
                 target_id = str(input()) # mencari data yang ingin diupdate dengan mencari idnya
+                print("Input update data :")
                 i = 0;
                 for dpr_members in dpr_list:
                     if target_id == dpr_members.get_id(): # jika ditemukan id yang ingin diupdate pada list
