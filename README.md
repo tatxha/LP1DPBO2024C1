@@ -32,10 +32,12 @@ Program saya mempunyai 1 Primary key, Yaitu **ID**, Oleh karena itu program ini 
 ## Dokumentasi 
 
 ### Dokumentasi PHP
-
+<img width="960" alt="Screenshot 2024-02-14 195316" src="https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/90618abb-d407-4683-b00c-a0bc7b54e3d9">
 
 ### Dokumentasi CPP
-
+![Screenshot (921)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/4a727cf8-cc47-42fa-a1e5-90e0ad8de8b6)
+![Screenshot (922)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/025eab82-cb3d-4043-9180-4e521d7cbb3b)
+![Screenshot (923)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/c81ea02f-ce50-483e-8ba3-ae7045270d4e)
 
 ### Dokumentasi Java
 ![Screenshot (918)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/daa786a1-204e-4f2c-b9e9-b7175ed00cde)
