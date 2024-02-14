@@ -38,9 +38,14 @@ Program saya mempunyai 1 Primary key, Yaitu **ID**, Oleh karena itu program ini 
 
 
 ### Dokumentasi Java
-
+![Screenshot (918)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/daa786a1-204e-4f2c-b9e9-b7175ed00cde)
+![Screenshot (919)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/f812fb96-d3c7-4a12-989a-1961431daac2)
+![Screenshot (920)](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/56d3528d-1fb4-449c-b10f-caad08d67af0)
 
 ### Dokumentasi Python
 ![ss_py1](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/4b834142-3550-4373-91bf-135b6f3c8093)
+![ss_py2](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/057d39fe-8db2-4535-98ec-35739ce7b75c)
+![ss_py3](https://github.com/tatxha/LP1DPBO2024C1/assets/134766457/b24211c9-c5bf-4689-bc04-21534ce231f3)
+
 
 
